@@ -1,0 +1,25 @@
+Dati grezzi:
+- https://docs.google.com/spreadsheets/d/1jg_eeQk-HalNc90JX5Pbuh6L12pSU7fHaPBx6wfoYkM/edit?usp=sharing
+- https://docs.google.com/spreadsheets/d/1GbzumIKmHKoKIF90PHrv9Qq3EETG5IaW226QWYT2MAA/edit?usp=sharing
+
+Link report 1:
+- https://lookerstudio.google.com/reporting/6895b901-a4be-42ed-a439-0f826b51a98f
+
+Link report 2:
+- https://lookerstudio.google.com/reporting/0685c03b-94da-49fd-8ac3-dd3475796657
+
+Il primo dataset "smoking data meditation" contiene informazioni raccolte da me personalmente su quanto tabacco ho fumato durante il mese di Dicembre del 2023, diviso in sigarette semplici e sigarette di drum. Il secondo invece "smoking_uk"è un dataset preso da kaggle contenente i dati di un sondaggio su 1690 individui in UK, contenente dati su: il sesso, etnia, età e massimo grado di istruzione.
+
+Per quanto riguarda l'analisi fatta sul mio dataset ho scelto come prima visualizzazione un grafico a linee, avendo una serie temporale so che questa visualizzazione fa al caso mio.
+Sui dati mi sono voluto calcolare un nuovo campo "TOT" che va a sommare il numero di sigarette a quello di drummini, ed ho inserito anche questa nuova misura nella visualization.
+La domanda che mi sono posto successivamente nel mio report è stata "quante sigarette ho fumato nel perioodo preso in considerazione ?", di conseguenza sono andato ad aggiungere una visualizzazione "scheda di punteggi" che contenga all'interno il suddetto dato.
+Allo stesso modo ho creato un altro oggetto scheda che contenga anche la media, la mediana, massimo e minimo della distribuzione.
+
+Per quanto riguarda il secondo report, essendo basato su un sondaggio dove si chiedeva a tanti individui se fossero fumatori o meno, di conseguenza la prima visualizzazione che mi sono occupato di inserire è un grafico a torta per adocchiare la percentuale di fumatori e non.
+
+Ho pensato successivamente di aggiungere anche una visual tabella nel report, che riepilogasse l'insieme dei dati.
+Successivamente mi sono iniziato a fare delle domande per quanto riguarda la popolazione che ha partecipato al sondaggio, chiedendomi la percentuale di uomini e donne, successivamente mi sono interrogato sull'etnia dei partecipanti al sondaggio, scoprendo che sono per oltre il 90 per cento di bianchi, avrei preferito una serie di dati più eterogenea onestamente.
+
+Arrivato verso il termine della giornata mi sono dedicato a temi e layout, oltre che per salvare le dashboard ed i dati in modo corretto.
+Non mi sento soddisfatto.
+
